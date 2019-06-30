@@ -1,0 +1,11 @@
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\bin\Debug\netcoreapp2.1\RabbitMQ_Sender.deps.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\bin\Debug\netcoreapp2.1\RabbitMQ_Sender.runtimeconfig.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\bin\Debug\netcoreapp2.1\RabbitMQ_Sender.runtimeconfig.dev.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\bin\Debug\netcoreapp2.1\RabbitMQ_Sender.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.csprojAssemblyReference.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.csproj.CoreCompileInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.AssemblyInfoInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.AssemblyInfo.cs
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\bin\Debug\netcoreapp2.1\RabbitMQ_Sender.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\RabbitMQ_Sender\obj\Debug\netcoreapp2.1\RabbitMQ_Sender.pdb

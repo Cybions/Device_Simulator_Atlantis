@@ -1,0 +1,16 @@
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\test\netcoreapp2.1\DeviceSimulator.deps.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\test\netcoreapp2.1\DeviceSimulator.runtimeconfig.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\test\netcoreapp2.1\DeviceSimulator.runtimeconfig.dev.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\test\netcoreapp2.1\DeviceSimulator.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\test\netcoreapp2.1\DeviceSimulator.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\bin\Debug\netcoreapp2.1\DeviceSimulator.deps.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\bin\Debug\netcoreapp2.1\DeviceSimulator.runtimeconfig.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\bin\Debug\netcoreapp2.1\DeviceSimulator.runtimeconfig.dev.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\bin\Debug\netcoreapp2.1\DeviceSimulator.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\bin\Debug\netcoreapp2.1\DeviceSimulator.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.csproj.CoreCompileInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.AssemblyInfoInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.AssemblyInfo.cs
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceSimulator\obj\Debug\netcoreapp2.1\DeviceSimulator.csprojAssemblyReference.cache

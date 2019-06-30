@@ -1,0 +1,17 @@
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceAPI.deps.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceAPI.runtimeconfig.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceAPI.runtimeconfig.dev.json
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceAPI.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceAPI.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceSimulator.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\bin\Debug\netcoreapp2.1\DeviceSimulator.pdb
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.csprojAssemblyReference.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.csproj.CoreCompileInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.RazorAssemblyInfo.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.RazorAssemblyInfo.cs
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.AssemblyInfoInputs.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.AssemblyInfo.cs
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.RazorTargetAssemblyInfo.cache
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.csproj.CopyComplete
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.dll
+D:\_Travail\DeviceSimulator\DeviceSimulator\DeviceAPI\obj\Debug\netcoreapp2.1\DeviceAPI.pdb
